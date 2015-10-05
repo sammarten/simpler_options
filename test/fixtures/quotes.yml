@@ -1,0 +1,23 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  time: 2015-10-05 12:43:01
+  date: 2015-10-05
+  period: MyString
+  open: 9.99
+  high: 9.99
+  low: 9.99
+  close: 9.99
+  volume: 1
+  security_id: 
+
+two:
+  time: 2015-10-05 12:43:01
+  date: 2015-10-05
+  period: MyString
+  open: 9.99
+  high: 9.99
+  low: 9.99
+  close: 9.99
+  volume: 1
+  security_id: 
