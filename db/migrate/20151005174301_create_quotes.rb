@@ -1,7 +1,6 @@
 class CreateQuotes < ActiveRecord::Migration
   def change
-    create_table :quotes, :id => false do |t|
-      t.integer :id, :limit => 8
+    create_table :quotes do |t|
       t.datetime :time 
       t.date :date 
       t.string :period
